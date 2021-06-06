@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " d ",
+    "d d",
+    " d "
+  ],
+  "key":
+  {
+    "d":
+    {
+      "item": "minecraft:dirt"
+    }
+  },
+  "result":
+  {
+    "item": "minecraft:diamond",
+    "count": 1
+  }
+}
